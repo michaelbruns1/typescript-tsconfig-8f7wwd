@@ -1,0 +1,10 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@types/papaparse": "^5.0.3",
+    "papaparse": "^5.2.0",
+    "typescript": "^3.9.2"
+  }
+}
